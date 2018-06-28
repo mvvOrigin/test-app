@@ -1,0 +1,3 @@
+[submodule "mylibrary"]
+	path = mylibrary
+	url = git@github.com:mvvOrigin/mylibrary.git
