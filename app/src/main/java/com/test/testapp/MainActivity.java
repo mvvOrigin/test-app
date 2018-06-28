@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Feature.like();
 
         // Sergey
+
+        // apply bug fix
     }
 }
